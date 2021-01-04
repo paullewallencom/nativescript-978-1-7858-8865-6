@@ -1,0 +1,16 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded" title="Test">
+  <ActionBar title="Platformer"/>
+  <StackLayout>
+    <Label text="Platform Statistics" id="title" class="title"/>
+    <Label text="" id="diff" textWrap="true"/>
+
+    <!--- Example using the ios and android xml wrappers -->
+    <ios><Label text="I am only visible on iOS"/></ios>
+    <android><Label text="I am only visible on Android"/></android>
+
+    <!--- Example using the ios: and android: prefixes -->
+    <Button text="Awesome" ios:text="iOS is Awesome" android:text="Android is Awesome"/>
+
+
+  </StackLayout>
+</Page>

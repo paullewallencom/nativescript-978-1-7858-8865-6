@@ -1,0 +1,9 @@
+<Page>
+    <Page.actionBar>
+        <ActionBar title="Settings" />
+    </Page.actionBar>
+    <StackLayout>
+        <Label text="We are now in the settings!" cssClass="message" />
+        <Button text="Back" tap="tap" />
+    </StackLayout>
+</Page>

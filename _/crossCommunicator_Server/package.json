@@ -1,0 +1,25 @@
+{
+  "name": "websockets-server",
+  "version": "1.0.0",
+  "description": "A WebSocket Server module for testing Android & IOS websockets",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanaela/websocket-server.git"
+  },
+  "keywords": [
+    "WebSockets", "Development", "JavaScript", "Android", "IOS", "Server"
+  ],
+  "author": {
+    "name": "Nathanael Anderson",
+    "email": "nathan@master-technology.com"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanaela/websocket-server/issues"
+  },
+  "homepage": "https://github.com/nathanaela/websocket-server",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "ws": "*"
+  }
+}

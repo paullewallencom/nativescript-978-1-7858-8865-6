@@ -1,0 +1,20 @@
+﻿.title {
+    font-size: 30;
+    horizontal-align: center;
+    margin:10;
+}
+
+button {
+    font-size: 12;
+    horizontal-align: center;
+}
+
+Label {
+    padding: 10;
+}
+
+.message {
+    font-size: 20;
+    color: #284848;
+    horizontal-align: center;
+}

@@ -1,0 +1,1 @@
+Chapter 3 - Example 1, Takes all the changes from Chapter 2, and add Settings.xml, replaced settings.js, updated app.css and the complex label example.

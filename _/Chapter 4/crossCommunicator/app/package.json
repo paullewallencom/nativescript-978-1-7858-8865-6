@@ -1,0 +1,22 @@
+{
+  "name": "crossCommunicator",
+  "main": "app.js",
+  "jsoptions": "--expose_gc",
+  "version": "0.0.1",
+  "author": {
+    "name": "Nathanael Anderson",
+    "email": "nathan@master-technology.com"
+  },
+  "description": "crossCommunicator example 1",
+  "license": "MIT",
+  "keywords": [
+    "master-technology.com",
+    "mobile",
+    "nativescript",
+    "ios",
+    "android",
+    "sockets",
+    "ajax"
+  ],
+  "homepage": "https://github.com/GettingStartedWithNativeScript"
+}

@@ -1,0 +1,17 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
+  <ActionBar title="Chapter 3, Example 1"/>
+  <StackLayout>
+    <Label class="title">
+      <Label.formattedText>
+        <FormattedString>
+          <FormattedString.spans>
+            <Span text='Tap the' fontSize='10'/>
+            <Span text='button' fontAttribute='Bold'/>
+          </FormattedString.spans>
+        </FormattedString>
+      </Label.formattedText>
+    </Label>
+    <Button text="TAP" tap="{{ tapAction }}" />
+    <Label text="{{ message }}" class="message" textWrap="true"/>
+  </StackLayout>
+</Page>

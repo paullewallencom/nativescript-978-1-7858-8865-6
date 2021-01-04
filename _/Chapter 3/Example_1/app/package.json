@@ -1,0 +1,15 @@
+{
+  "name": "Getting Started with NativeScript Examples",
+  "main": "app.js",
+  "jsoptions": "--expose_gc",
+  "version": "1.0.0",
+  "description": "Getting Started with NativeScript Examples",
+  "keywords": [
+    "ios",
+    "android",
+    "mobile",
+    "nativescript",
+    "example"
+  ],
+  "homepage": "https://github.com/GettingStartedWithNativeScript"
+}

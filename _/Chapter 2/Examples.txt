@@ -1,0 +1,2 @@
+Chapter 2 - Example 1, is just the default application, with our modified main-view-model.js and application events.
+Chapter 2 - Example 2, builds upon Example 1 and has the new Settings.js screen

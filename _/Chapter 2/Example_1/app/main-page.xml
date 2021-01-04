@@ -1,0 +1,8 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="pageLoaded">
+  <ActionBar title="Chapter 2, Example 1"/>
+  <StackLayout>
+    <Label text="Tap the button" class="title"/>
+    <Button text="TAP" tap="{{ tapAction }}" />
+    <Label text="{{ message }}" class="message" textWrap="true"/>
+  </StackLayout>
+</Page>

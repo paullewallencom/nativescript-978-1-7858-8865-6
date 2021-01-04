@@ -1,0 +1,8 @@
+{
+	"nativescript": {
+		"id": "com.mastertechapps.crossCommunicator"
+	},
+	"dependencies": {
+		"tns-core-modules": "1.4.0"
+	}
+}

@@ -1,0 +1,1 @@
+Chapter 1 - Example 1, is just the default application installed via the normal nativescript create Example1
